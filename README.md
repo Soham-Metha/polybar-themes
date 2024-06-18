@@ -39,7 +39,7 @@ This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090
 
 Created based on the API provided by <a href="https://openweathermap.org/">Open Weather Map</a>, it provides a way to constantly update you on the weather in a specific location.
 <details>
-<summary> Usage Instructions </summary><br>
+<summary> Setup Instructions </summary><br>
   
 - After installing the theme, navigate to `polybar/shapes_v2/scripts/weather.sh` <br>
 - log into the openweathermap website and create an api key <a href="https://home.openweathermap.org/api_keys">here</a><br>
@@ -49,6 +49,13 @@ Created based on the API provided by <a href="https://openweathermap.org/">Open 
 - Update both the location ID and API key in the weather script<br>
 - Done!
 </details>
+
+#### Usage
+
+ After the script has been setup, it will start displaying the weather in `SHORT` form  by default. You can toggle between `SHORT` & `LONG` by clicking on it
+
+ - Left click : `SHORT`
+ - Right click : `LONG`
 
 ### Spotify widget
 
