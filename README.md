@@ -1,7 +1,7 @@
 <!-- Polybar Themes-->
 ## Branch Details
 
-This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090x/polybar-themes</a> with my own theme <a href="https://github.com/Soham-Metha/polybar-themes#ShapesV2" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/material-cyan?style=for-the-badge"></a> added.
+This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090x/polybar-themes</a> with my own theme <a href="https://github.com/Soham-Metha/polybar-themes#ShapesV2">Shapes V2</a> added.
 
 ### ShapesV2
 
