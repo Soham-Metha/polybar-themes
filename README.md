@@ -1,7 +1,7 @@
 <!-- Polybar Themes-->
 # Branch Details
 
-This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090x/polybar-themes</a> with my own theme <a href="https://github.com/Soham-Metha/polybar-themes#ShapesV2">Shapes V2</a> added.
+This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090x/polybar-themes</a> with my own theme <a href="https://github.com/Soham-Metha/polybar-themes#shapes-v2">Shapes V2</a> added.
 
 ## Shapes V2
 
@@ -18,9 +18,10 @@ This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090
 
 ### Previews
 **`Simple`**
+![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/simple.png)
 
 **`Expanded`**
-
+![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/expanded.png)
 ### Weather widget
 
 Created based on the API provided by <a href="https://openweathermap.org/">Open Weather Map</a>, it provides a way to constantly update you on the weather in a specific location.
