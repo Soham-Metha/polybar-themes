@@ -14,14 +14,27 @@ This is a branch of <a href="https://github.com/adi1090x/polybar-themes">adi1090
 ### What's New?
 - Weather Widget
 - Spotify Widget
-- Added Pywal support
 
 ### Previews
-**`Simple`**
+
+- Simple
+
 ![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/simple.png)
 
-**`Expanded`**
+- Expanded
+
 ![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/expanded.png)
+
+- Entire Screen
+
+![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/entire-screen.png)
+
+- Left/Center/Right
+
+![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/poly-left.png)<br>
+![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/poly-center.png)<br>
+![img](https://github.com/Soham-Metha/polybar-themes/blob/master/preview/poly-right.png)
+
 ### Weather widget
 
 Created based on the API provided by <a href="https://openweathermap.org/">Open Weather Map</a>, it provides a way to constantly update you on the weather in a specific location.
